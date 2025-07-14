@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.ipch/
+*.db
+*.log
+
+# Build artifacts
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.tlog
+*.idb
+*.cache
+*.lastbuildstate
+*.FileListAbsolute.txt
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
